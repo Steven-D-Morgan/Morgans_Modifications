@@ -2,6 +2,7 @@
 I began using Home Assistant because I hated having several different apps to control all of our devices. This is my attempt to combine several different devices into 1 combined & simple remote.
 - Roku
 - LG Smart TV
+  - [Home Assistant Docs](https://www.home-assistant.io/integrations/webostv)
 - Onkyo TX-NR686 Receiver
 ***
 ### Configuration.yaml ###
