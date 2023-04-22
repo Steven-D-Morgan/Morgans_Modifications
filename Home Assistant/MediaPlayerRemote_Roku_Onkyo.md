@@ -40,11 +40,52 @@ living_room_roku_disney: "curl -X POST http://192.168.10.154:8060/launch/291097"
 ```
 ***
 ### Scripts ###
-We are going to use the picture-elements card so we need to make a few scripts in my case.
+- We are going to use the picture-elements card so we need to make a few scripts in my case.
+- An example Pause/Play script...
+```
+alias: Living Room Roku Play/Pause
+sequence:
+  - service: media_player.media_play_pause
+    data: {}
+  - choose:
+      - conditions:
+          - condition: or
+            conditions:
+              - condition: device
+                device_id: b21ff549e71a0e475d7fa97fb97184fc
+                domain: media_player
+                entity_id: media_player.living_room_roku
+                type: is_paused
+              - condition: device
+                device_id: b21ff549e71a0e475d7fa97fb97184fc
+                domain: media_player
+                entity_id: media_player.living_room_roku
+                type: is_idle
+            alias: If Roku Paused or Idle
+        sequence:
+          - service: media_player.media_play
+            data: {}
+            target:
+              entity_id: media_player.living_room_roku
+            alias: Play
+      - conditions:
+          - condition: device
+            device_id: b21ff549e71a0e475d7fa97fb97184fc
+            domain: media_player
+            entity_id: media_player.living_room_roku
+            type: is_playing
+        sequence:
+          - service: media_player.media_pause
+            data: {}
+            target:
+              entity_id: media_player.living_room_roku
+mode: single
+icon: mdi:play-pause
+```
 
 ***
 ### picture-elements card ###
-These exact coordinates will work directly with the remote image at the bottom of this page.
+- These exact coordinates will work directly with the remote image at the bottom of this page.
 ```
 type: vertical-stack
 cards:
