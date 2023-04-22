@@ -73,6 +73,11 @@ persist-tun;
 reneg-sec 0;
 remote-cert-tls server;
 ```
+***
 **NordVPN DNS Servers**
+```
 103.86.96.100
+```
+```
 103.86.99.100
+```
