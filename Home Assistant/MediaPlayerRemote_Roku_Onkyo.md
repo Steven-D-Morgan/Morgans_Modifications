@@ -1,10 +1,13 @@
-# Media Player Remote: Roku & Onkyo Stereo #
+# Media Player Remote #
+- Roku
+- LG Smart TV
+- Onkyo TX-NR686 Receiver
 ### Configuration.yaml ###
 - Add the following line..
 ```
 shell_command: !include YAML/ShellCommands.yaml
 ```
-### ShellCommands.yaml (Roku Specific) ###
+### ShellCommands.yaml *(Roku Specific)* ###
 - Create a file in your YAML directory and paste the below cheat sheet.
 - Alter the IP to mimic your network infrastructure. Definetely recommend Static IP assignments.
 ```
