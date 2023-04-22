@@ -39,3 +39,6 @@ living_room_roku_hulu: "curl -X POST http://192.168.10.154:8060/launch/2285"
 living_room_roku_disney: "curl -X POST http://192.168.10.154:8060/launch/291097"
 ```
 ***
+### Remote PNG ###
+![This is the template I use to add custom logos for a personal remote](resources/_SDM_Remote.png)
+
