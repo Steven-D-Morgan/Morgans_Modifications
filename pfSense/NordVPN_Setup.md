@@ -1,17 +1,17 @@
- - 1.) Go to [NordVPN Server Selector Tool](https://nordvpn.com/servers/tools/)
+ - 1.) **Go to [NordVPN Server Selector Tool](https://nordvpn.com/servers/tools/)**
    - A.) Select Type "P2P, Double VPN, etc"
    - B.) Select "Show Available Protocols"
    - C.) Download the appropriate config file.
       - NOTE: This is where the certificates will be located that we will use later.
- - 2.) Open the configuration file in your favorite text editor
+ - 2.) **Open the configuration file in your favorite text editor**
     - [Notepad++](https://notepad-plus-plus.org/)
     - [Visual Studio Code](https://code.visualstudio.com/download)
     - Notepad
- - 3.) Open your web browser and go to your pfSense WebGUI
- - 4.) Select the "System" dropdown, then "Cert Manager".
- - 5.) Under the "CA Certificates" section, select "New +"
- - 6.) Under Method, change to "Import An Existing Certificate Authority"
- - 7.) Go to your text editor and copy everything in between the "<CA>" & "</CA>" tags.
+ - 3.) **Open your web browser and go to your pfSense WebGUI**
+ - 4.) **Select the "System" dropdown, then "Cert Manager".**
+ - 5.) **Under the "CA Certificates" section, select "New +"**
+ - 6.) **Under Method, change to "Import An Existing Certificate Authority"**
+ - 7.) **Go to your text editor and copy everything in between the "<CA>" & "</CA>" tags.**
 ```
   -----BEGIN CERTIFICATE-----
   MIIFCjCCAvKgAwIBAgIBATANBgkqhkiG9w0BAQ0FADA5MQswCQYDVQQGEwJQQTEQ
@@ -43,12 +43,12 @@
   PApL8PytggYKeQmRhl499+6jLxcZ2IegLfqq41dzIjwHwTMplg+1pKIOVojpWA==
   -----END CERTIFICATE-----
 ```
- - 8.) Paste into the "Certificate Date" block.
- - 9.) Select the "VPN" tab at the top of the page.
+ - 8.) **Paste into the "Certificate Date" block.**
+ - 9.) **Select the "VPN" tab at the top of the page.**
       - A.) Select OpenVPN
       - B.) Clients
       - C.) Add Client
- - 10.) Fill in the fields as listed below.
+ - 10.) **Fill in the fields as listed below.**
     - Disable this client: Uncheck
     - Server mode: Peer to Peer (SSL/TLS)
     - Protocol: UDP on IPv4 only (you can also use TCP)
@@ -61,7 +61,7 @@
     - Proxy port: Leave blank
     - Proxy Authentication: none
     - Description: Any name you want can go here for admistrative purposes. 
- - 11.) Additional Config Options
+ - 11.) **Additional Config Options**
 ```
 tls-client;
 remote-random;
