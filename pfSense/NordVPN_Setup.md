@@ -61,3 +61,15 @@
     - Proxy port: Leave blank
     - Proxy Authentication: none
     - Description: Any name you want can go here for admistrative purposes. 
+ - 11.) Additional Config Options
+```
+tls-client;
+remote-random;
+tun-mtu 1500;
+tun-mtu-extra 32;
+mssfix 1450;
+persist-key;
+persist-tun;
+reneg-sec 0;
+remote-cert-tls server;
+```
