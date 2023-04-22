@@ -1,15 +1,18 @@
 # Media Player Remote #
+I began using Home Assistant because I hated having several different apps to control all of our devices. This is my attempt to combine several different devices into 1 combined & simple remote.
 - Roku
 - LG Smart TV
 - Onkyo TX-NR686 Receiver
+***
 ### Configuration.yaml ###
 - Add the following line..
 ```
 shell_command: !include YAML/ShellCommands.yaml
 ```
+***
 ### ShellCommands.yaml *(Roku Specific)* ###
 - Create a file in your YAML directory and paste the below cheat sheet.
-- Alter the IP to mimic your network infrastructure. Definetely recommend Static IP assignments.
+- Alter the below IP to mimic your network infrastructure. Definetely recommend Static IP assignments at the Router level.
 ```
 living_room_roku_on: "curl -X POST http://192.168.10.154:8060/keypress/PowerOn"
 living_room_roku_off: "curl -X POST http://192.168.10.154:8060/keypress/PowerOff"
