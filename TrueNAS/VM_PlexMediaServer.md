@@ -65,6 +65,3 @@ sudo mkdir -p /opt/plexmedia/{movies,tv,home_videos,home_photos}
 ```
 sudo chown -R plex: /opt/plexmedia
 ```
-```
-
-```
