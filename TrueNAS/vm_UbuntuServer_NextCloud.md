@@ -66,6 +66,67 @@ unzip nextcloud-26.0.1.zip
 mv nextcloud /var/www/html/
 ```
 ```
+chown -R www-data:www-data /var/www/html/nextcloud
+chmod -R 775 /var/www/html/nextcloud
+```
+```
+nano /etc/apache2/sites-available/next.conf
+```
+```
+<VirtualHost *:80>
+     ServerAdmin admin@example.com
+     DocumentRoot /var/www/html/nextcloud
+     ServerName next.example.com
+     ErrorLog /var/log/apache2/nextcloud-error.log
+     CustomLog /var/log/apache2/nextcloud-access.log combined
+ 
+    <Directory /var/www/html/nextcloud>
+	Options +FollowSymlinks
+	AllowOverride All
+        Require all granted
+ 	SetEnv HOME /var/www/html/nextcloud
+ 	SetEnv HTTP_HOME /var/www/html/nextcloud
+ 	<IfModule mod_dav.c>
+  	  Dav off
+        </IfModule>
+    </Directory>
+</VirtualHost>
+```
+```
+a2ensite next
+a2enmod rewrite dir mime env headers
+```
+```
+systemctl restart apache2
+```
+```
+systemctl status apache2
+```
+? apache2.service - The Apache HTTP Server
+     Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
+     Active: active (running) since Fri 2022-06-17 15:04:27 UTC; 4s ago
+       Docs: https://httpd.apache.org/docs/2.4/
+    Process: 16746 ExecStart=/usr/sbin/apachectl start (code=exited, status=0/SUCCESS)
+   Main PID: 16750 (apache2)
+      Tasks: 6 (limit: 2292)
+     Memory: 14.7M
+        CPU: 98ms
+     CGroup: /system.slice/apache2.service
+             ??16750 /usr/sbin/apache2 -k start
+             ??16751 /usr/sbin/apache2 -k start
+             ??16752 /usr/sbin/apache2 -k start
+             ??16753 /usr/sbin/apache2 -k start
+             ??16754 /usr/sbin/apache2 -k start
+             ??16755 /usr/sbin/apache2 -k start
+
+Jun 17 15:04:27 ubuntu2204 systemd[1]: Starting The Apache HTTP Server...
+```
+
+```
+```
+
+```
+```
 
 ```
 ```
