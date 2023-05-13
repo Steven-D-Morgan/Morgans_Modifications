@@ -104,24 +104,27 @@ systemctl status apache2
 ```
 ** If all went well, should look similar to below **
 ```
-? apache2.service - The Apache HTTP Server
+● apache2.service - The Apache HTTP Server
      Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
-     Active: active (running) since Fri 2022-06-17 15:04:27 UTC; 4s ago
+     Active: active (running) since Sat 2023-05-13 02:24:38 EDT; 3s ago
        Docs: https://httpd.apache.org/docs/2.4/
-    Process: 16746 ExecStart=/usr/sbin/apachectl start (code=exited, status=0/SUCCESS)
-   Main PID: 16750 (apache2)
-      Tasks: 6 (limit: 2292)
-     Memory: 14.7M
-        CPU: 98ms
+    Process: 18745 ExecStart=/usr/sbin/apachectl start (code=exited, status=0/SUCCESS)
+   Main PID: 18751 (apache2)
+      Tasks: 6 (limit: 9373)
+     Memory: 14.8M
+        CPU: 140ms
      CGroup: /system.slice/apache2.service
-             ??16750 /usr/sbin/apache2 -k start
-             ??16751 /usr/sbin/apache2 -k start
-             ??16752 /usr/sbin/apache2 -k start
-             ??16753 /usr/sbin/apache2 -k start
-             ??16754 /usr/sbin/apache2 -k start
-             ??16755 /usr/sbin/apache2 -k start
+             ├─18751 /usr/sbin/apache2 -k start
+             ├─18752 /usr/sbin/apache2 -k start
+             ├─18753 /usr/sbin/apache2 -k start
+             ├─18754 /usr/sbin/apache2 -k start
+             ├─18755 /usr/sbin/apache2 -k start
+             └─18756 /usr/sbin/apache2 -k start
 
-Jun 17 15:04:27 ubuntu2204 systemd[1]: Starting The Apache HTTP Server...
+May 13 02:24:38 ubucloud systemd[1]: Starting The Apache HTTP Server...
+May 13 02:24:38 ubucloud apachectl[18749]: AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 127.0.1.1. Set the 'ServerName' directive globally to suppress this message
+May 13 02:24:38 ubucloud systemd[1]: Started The Apache HTTP Server.
+
 ```
 ## LetsEncrpt DNS SSL Certificate ##
 ```
