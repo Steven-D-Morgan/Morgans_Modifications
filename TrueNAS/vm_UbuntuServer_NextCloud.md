@@ -36,9 +36,9 @@ nano /etc/php/8.1/apache2/php.ini
 ```
 date.timezone = UTC
 memory_limit = 512M
-upload_max_filesize = 500M
-post_max_size = 500M
-max_execution_time = 300
+upload_max_filesize = 100G
+post_max_size = 100G
+max_execution_time = 3600
 ```
 ** ctrl + x**
 ```
