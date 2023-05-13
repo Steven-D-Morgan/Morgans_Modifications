@@ -102,6 +102,8 @@ systemctl restart apache2
 ```
 systemctl status apache2
 ```
+** If all went well, should look similar to below **
+```
 ? apache2.service - The Apache HTTP Server
      Loaded: loaded (/lib/systemd/system/apache2.service; enabled; vendor preset: enabled)
      Active: active (running) since Fri 2022-06-17 15:04:27 UTC; 4s ago
@@ -120,6 +122,7 @@ systemctl status apache2
              ??16755 /usr/sbin/apache2 -k start
 
 Jun 17 15:04:27 ubuntu2204 systemd[1]: Starting The Apache HTTP Server...
+```
 ```
 
 ```
