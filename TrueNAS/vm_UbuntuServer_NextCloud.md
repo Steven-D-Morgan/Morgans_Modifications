@@ -26,7 +26,7 @@ timedatectl list-timezones
 ```
 timedatectl set-timezone America/New_York
 ```
-** Now lets begin setting up NextCloud**
+## Now lets begin setting up NextCloud ##
 ```
 apt install apache2 mariadb-server php php-cli php-fpm php-json php-intl php-imagick php-pdo php-mysql php-zip php-gd php-mbstring php-curl php-xml php-pear php-bcmath apache2 libapache2-mod-php -y
 ```
