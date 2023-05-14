@@ -4,8 +4,7 @@ Home Assistant - Emporia Vue Integration
  - Emporia Vue 3rd Party Integration can be found [here](https://github.com/magico13/ha-emporia-vue)
 ___
 ### sensors.yaml
-    ###########################################
-    ### Breaker 17 & 19 ########################
+```
 ###########################################
 ### Breaker 01, 03 ########################
 - platform: template
@@ -26,3 +25,4 @@ ___
       friendly_name: "01,03: ATD"
       unit_of_measurement: "USD"
       value_template: "{{ (states('sensor.meter_0103_atd') | float(0) * states('sensor.rutherford_per_kwh') | float(0)) | round(2) }}"
+```
