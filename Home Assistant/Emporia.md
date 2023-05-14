@@ -7,10 +7,18 @@ ___
  - Template to use wherever you keep the sensors section of your configuration.yaml
 ```
 ###########################################
-### Breaker 01, 03 ########################
+### Per kWh ###############################
 ###########################################
 - platform: template
   sensors:
+    rutherford_per_kwh:
+      friendly_name: "REMC $/kWh"
+      unit_of_measurement: "USD"
+      value_template: "{{ ('0.1062824858757062') | float(0) }}"
+      
+###########################################
+### Breaker 01, 03 ########################
+###########################################
     cost_breaker_01_03_today:
       friendly_name: "01,03: Today"
       unit_of_measurement: "USD"
@@ -31,8 +39,6 @@ ___
 ###########################################
 ### Total Consumption and % of Total ######
 ###########################################
-- platform: template
-  sensors:
     emporia_meters_1day_total_kwh:
       friendly_name: "Total"
       unit_of_measurement: "kWh"
@@ -87,28 +93,40 @@ ___
 
 ```
 ___
-### configuration.yaml
- - Template to use whether you link utility_meter: to another yaml file or if you use in your configuration.yaml
+### Standard Markdown Card
+ - Simple way of displaying raw data from Emporia Integration along with template sensors created using templates above.
 ```
-utility_meter:
-  ###########################################
-  ### Breaker 01, 03 ########################
-  utilitymeter_breaker_01_03_today:
-    name: "Meter 01,03: Today"
-    source: sensor.breaker_01_03_1day_kwh
-    cycle: daily
-  utilitymeter_breaker_01_03_mtd:
-    name: "Meter 01,03: MTD"
-    source: sensor.breaker_01_03_1day_kwh
-    cycle: monthly
-  utilitymeter_breaker_01_03_qtd:
-    name: "Meter 01,03: QTD"
-    source: sensor.breaker_01_03_1day_kwh
-    cycle: quarterly
-  utilitymeter_breaker_01_03_atd:
-    name: "Meter 01,03: ATD"
-    source: sensor.breaker_01_03_1day_kwh
-    cycle: yearly
+
+type: markdown
+content: >-
+  # Breaker 01,03 #
+
+
+  60A
+
+
+  **Heat Pump** *(Auxillary Heat)*
+
+
+  - Today: **${{ states('sensor.cost_breaker_01_03_today') }}** - *{{
+  states('sensor.meter_0103_today') }} kWh*
+
+  - MTD: **${{ states('sensor.cost_breaker_01_03_mtd') }}** - *{{
+  states('sensor.meter_0103_mtd') }} kWh*
+
+  - QTD: **${{ states('sensor.cost_breaker_01_03_qtd') }}** - *{{
+  states('sensor.meter_0103_qtd') }} kWh*
+
+  - ATD: **${{ states('sensor.cost_breaker_01_03_atd') }}** - *{{
+  states('sensor.meter_0103_atd') }} kWh*
+
+  ---
+
+  - 1 Minute: **{{ states('sensor.breaker_01_03_1minute_watts') }}w**
+
+  - 1 Day: **{{ states('sensor.breaker_01_03_1day_kwh') }} kWh**
+
+  ---
 ```
 ___
 
