@@ -101,12 +101,9 @@ type: markdown
 content: >-
   # Breaker 01,03 #
 
-
   60A
 
-
   **Heat Pump** *(Auxillary Heat)*
-
 
   - Today: **${{ states('sensor.cost_breaker_01_03_today') }}** - *{{
   states('sensor.meter_0103_today') }} kWh*
