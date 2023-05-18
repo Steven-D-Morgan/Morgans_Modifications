@@ -185,10 +185,19 @@ Enabled Apache ssl module
 Deploying Certificate to VirtualHost /etc/apache2/sites-available/next-le-ssl.conf
 Enabling available site: /etc/apache2/sites-available/next-le-ssl.conf
 ```
+___
+**SECURITY & SETUP WARNINGS**
+- ERROR: Module php-imagick in this instance has no SVG support. For better compatibility it is recommended to install it.
 ```
+sudo apt install libmagickcore-6.q16-3-extra
+```
+- ERROR: No Phone Default Region Set
+  1.)   ```
 
-```
-```
+	```
+  2.)   ```
+         'default_phone_region' => 'US',
+	```
 
 ```
 ```
