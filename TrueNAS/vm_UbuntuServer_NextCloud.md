@@ -39,6 +39,7 @@ memory_limit = 512M
 upload_max_filesize = 100G
 post_max_size = 100G
 max_execution_time = 3600
+opcache.interned_strings_buffer=10
 ```
 **ctrl + x**
 ```
