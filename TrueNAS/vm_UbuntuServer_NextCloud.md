@@ -202,13 +202,16 @@ nano /var/www/html/nextcloud/config/config.php
 ___
 **OTHER**
 - ffprobe binary not found
+- ffmpeg binary not found
 ```
 sudo apt-get install ffmpeg
 ```
 ```
 /usr/bin/ffmpeg
 ```
-
+```
+/usr/bin/ffprobe
+```
 
 
 
