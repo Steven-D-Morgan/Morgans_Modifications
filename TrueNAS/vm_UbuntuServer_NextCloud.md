@@ -40,7 +40,7 @@ upload_max_filesize = 100G
 post_max_size = 100G
 max_execution_time = 3600
 ```
-** ctrl + x**
+**ctrl + x**
 ```
 mysql
 ```
