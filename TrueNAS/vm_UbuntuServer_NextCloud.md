@@ -1,7 +1,7 @@
 # TrueNAS Scale - Ubuntu Virtual Machine - Nextcloud with SSL Encryption
-- Documentation related to my [YouTube Video](https://www.youtube.com/watch?v=3LxhyhNm9e0)
-- [Nextcloud Docs](https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html)
-- **Download [Ubuntu Server](https://ubuntu.com/download/server)**
+- Documentation related to my **[YouTube Video](https://www.youtube.com/watch?v=3LxhyhNm9e0)**
+- **[Nextcloud Docs](https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html)**
+- Download **[Ubuntu Server](https://ubuntu.com/download/server)**
 ___
 **Do your standard updating**
 ```
