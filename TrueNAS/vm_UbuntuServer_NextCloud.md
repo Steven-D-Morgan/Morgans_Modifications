@@ -199,8 +199,15 @@ nano /var/www/html/nextcloud/config/config.php
 ```
 'default_phone_region' => 'US',
 ```
-
-
+___
+**OTHER**
+- ffprobe binary not found
+```
+sudo apt-get install ffmpeg
+```
+```
+/usr/bin/ffmpeg
+```
 
 
 
