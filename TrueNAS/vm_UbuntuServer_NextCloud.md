@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=3LxhyhNm9e0
+https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html
 
 ```
 sudo su
