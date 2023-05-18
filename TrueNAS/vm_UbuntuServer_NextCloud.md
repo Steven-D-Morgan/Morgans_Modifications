@@ -191,24 +191,28 @@ ___
 ```
 sudo apt install libmagickcore-6.q16-3-extra
 ```
+
 - ERROR: No Phone Default Region Set
-  1.)   ```
-
-	```
-  2.)   ```
-         'default_phone_region' => 'US',
-	```
-
 ```
+nano /var/www/html/nextcloud/config/config.php
+```
+```
+'default_phone_region' => 'US',
 ```
 
-```
-```
 
-```
-```
 
-```
+
+
+
+
+
+
+
+
+
+
+
 ```
 
 ```
