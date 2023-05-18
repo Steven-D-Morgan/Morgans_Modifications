@@ -1,6 +1,7 @@
-https://www.youtube.com/watch?v=3LxhyhNm9e0
-https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html
-
+# TrueNAS Scale - Ubuntu Virtual Machine - Nextcloud with SSL Encryption
+- Documentation related to my [YouTube Video](https://www.youtube.com/watch?v=3LxhyhNm9e0)
+- [Nextcloud Docs](https://docs.nextcloud.com/server/latest/admin_manual/installation/source_installation.html)
+___
 ```
 sudo su
 ```
