@@ -1,4 +1,4 @@
-# TrueNAS Scale - Ubuntu Virtual Machine - Nextcloud with SSL Encryption
+# TrueNAS Scale - Plex
 Documentation related to my [YouTube Video](https://www.youtube.com/@morgansmodifications)
 ___
 - 1.) **Download [Ubuntu Server](https://ubuntu.com/download/server)**
