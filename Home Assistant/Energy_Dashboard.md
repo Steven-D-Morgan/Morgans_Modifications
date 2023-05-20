@@ -1,6 +1,6 @@
 Home Assistant - My Energy Dashboard
  ---
- - Documentation referenced in my [YouTube Video](https://www.youtube.com/@morgansmodifications)
+ - Documentation referenced in my [YouTube Video](https://youtu.be/uhSoSi3-zec)
  - Emporia Vue 3rd Party Integration can be found [here](https://github.com/magico13/ha-emporia-vue)
  - Custom Card: [Apex Charts](https://github.com/RomRider/apexcharts-card)
  - Custom Card: [Horizotal/Vertical Stack In](https://github.com/custom-cards/stack-in-card)
