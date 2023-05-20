@@ -2,7 +2,7 @@
 Documentation related to my [YouTube Channel](https://www.youtube.com/@morgansmodifications)
 ___
 ## Home Assistant
-- [YouTube](): High level overview of my entire Home Assistant setup
+- [YouTube](https://www.youtube.com/watch?v=zdTaFIKCRSE&): High level overview of my entire Home Assistant setup
 - [YouTube](https://youtu.be/uhSoSi3-zec): High level overview of my Energy Dashboard
 - [YouTube](https://www.youtube.com/watch?v=MkGi_UyWSZc): Emporia Vue Energy Metering
 - [YouTube](https://youtu.be/hCSlaGx6cOY): Aeotec GE Z-Wave - Motion Light - Simplest, Most Effective Solution
@@ -17,7 +17,7 @@ ___
 ___
 ## TrueNAS
 - [YouTube](https://www.youtube.com/watch?v=3LxhyhNm9e0): TrueNAS Scale Nextcloud with Lets Encrypt SSL Remote Access
-
+- [YouTube](https://www.youtube.com/watch?v=uGc2EasiOYg) :A high level overview of TrueNAS Scale. Simple video to show what scale looks like from a GUI perspective. I also went over a work around to use an SMB Plex Media folder as they blocked it from a reasonable security perspective. 
 ___
 ## ExifTool
 - [YouTube](https://youtu.be/z1QJK8ZJa5U): Edit Date/Time & Location Metadata EASY WALKTHROUGH
