@@ -58,3 +58,10 @@
 | "-ModifyDate<QuickTime:CreateDate" | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | "-DateTime<QuickTime:CreateDate" | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | "-DateCreated<QuickTime:CreateDate" | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
+___
+## Write Date to file based on File Name
+[YouTube Video]()
+```
+exiftool "-datetimeoriginal<filename" ./
+```
+
