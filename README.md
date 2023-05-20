@@ -15,6 +15,7 @@ ___
 - [YouTube](https://youtu.be/AouyT76yMmU): NordVPN Setup with Split Tunneling through vLAN's, etc (Version 2) 
 - Newcomer Content
   - [YouTube](https://www.youtube.com/watch?v=SrPGlDmDGPc): Rebooting & Configuration Backup/Restoration
+  - [YouTube](https://studio.youtube.com/video/GNvGwXK6kAo): DHCP Assignments
 
 ___
 ## TrueNAS
