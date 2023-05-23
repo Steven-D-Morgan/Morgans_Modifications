@@ -1,7 +1,15 @@
-# My Z-Wave Devices & Manufacturer Documentation
+# My Smart Home Equipment, Documentation, Where to Buy
 - **[My YouTube Channel](https://www.youtube.com/@morgansmodifications)**
 ___
-# **GE**
+## **Receptacle/Switch Related**
+- **Receptacle Safety Cover**
+  - [Amazon](https://www.amazon.com/gp/product/B007IUOG5A/)
+
+
+___
+___
+# Z-WAVE
+## **GE**
 - **In Wall Receptacle (ZW1002)**
   - [Amazon](https://www.amazon.com/Enbrighten-55256-Receptacle-Assistant-Tamper-Resistant/dp/B07361JZ2H)
   - [Manual](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Resources/Manuals/GE_ZW1002.pdf)
@@ -18,7 +26,7 @@ ___
   - [Amazon](https://www.amazon.com/GE-Enbrighten-Appliances-SmartThings-28169/dp/B004AMB3CI)
   - [Manual](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Resources/Manuals/GE_ZW4103.pdf)
 ___
-# **Aeotech/Aeon Labs**
+## **Aeotech/Aeon Labs**
 - **Aeotec Z-Stick Gen5 Gateway USB Dongle**
   - [Amazon](https://www.amazon.com/Aeotec-Z-Stick-Z-Wave-create-gateway/dp/B00X0AWA6E/)
   - [Manual]
@@ -35,7 +43,7 @@ ___
   - [Amazon](https://www.amazon.com/Aeotec-Aeon-Labs-ZW095-ZW095/dp/B00XD8WZX6/)
   - [Manual]
 ___
-# **Enerwave**
+## **Enerwave**
 - **In Wall Dimmer Switch *(ZW500DM-PLUS)***
   - 1 Pack: [Amazon](https://www.amazon.com/ENERWAVE-Automation-Required-Interchangeable-ZW500DM-PLUS/dp/B079C3R3XV)
   - 2 Pack: [Amazon](https://www.amazon.com/ENERWAVE-Automation-Monitor-Required-ZW500DM-PLUS/dp/B07FLT4W54/)
