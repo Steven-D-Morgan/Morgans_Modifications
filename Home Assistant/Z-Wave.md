@@ -1,10 +1,10 @@
 # My Z-Wave Devices & Manufacturer Documentation
-- Documentation related to my **[YouTube Video](https://www.youtube.com/@morgansmodifications)**
+- **[My YouTube Channel](https://www.youtube.com/@morgansmodifications)**
 ___
 # **GE**
 - **In Wall Receptacle (ZW1002)**
   - [Amazon](https://www.amazon.com/Enbrighten-55256-Receptacle-Assistant-Tamper-Resistant/dp/B07361JZ2H)
-  - [Manual]
+  - [Manual](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Resources/Manuals/GE_ZW1002.pdf)
 - **Fan Switch with Speed Contol (ZW4002)**
   - [Amazon](https://www.amazon.com/GE-Enbrighten-Required-SmartThings-14287/dp/B06XTKQTTV/)
   - [Manual]
@@ -16,7 +16,7 @@ ___
   - [Manual]
 - **Plug In On/Off Switch *(INDOOR)* (ZW4103)**
   - [Amazon](https://www.amazon.com/GE-Enbrighten-Appliances-SmartThings-28169/dp/B004AMB3CI)
-  - [Manual]
+  - [Manual](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Resources/Manuals/GE_ZW4103.pdf)
 ___
 # **Aeotech/Aeon Labs**
 - **Aeotec Z-Stick Gen5 Gateway USB Dongle**
