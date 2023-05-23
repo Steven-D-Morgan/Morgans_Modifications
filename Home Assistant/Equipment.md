@@ -4,8 +4,41 @@ ___
 # **RECEPTACLE & SWITCH RELATED**
 - **Receptacle Safety Cover**
   - [Amazon](https://www.amazon.com/gp/product/B007IUOG5A/)
-
-
+  - [From My YouTube Channel](https://youtu.be/BoiBjb1yXNE)
+___
+___
+___
+# Networking Equipment
+## **Router**
+- **pfSense**
+  - [Download pfSense](https://www.pfsense.org/download/)
+  - Built from an old PC we had laying around.
+## **Access Points**
+- **Netgear WAX610**
+  - [Amazon](https://www.amazon.com/NETGEAR-Wireless-Access-Point-WAX610/dp/B08D3693SV/)
+  - [From My YouTube Channel]
+- **Netgear WAX620**
+  - [Amazon](https://www.amazon.com/NETGEAR-Wireless-Access-Point-WAX610/dp/B0916KDL3Q/)
+  - [From My YouTube Channel]
+## **Switches**
+- **Netgear GS305E *(5 Port)* **
+  - [Amazon](https://www.amazon.com/gp/product/B07PJ7XZ7X)
+  - vLAN Management AFTER pfSense
+  - [From My YouTube Channel]
+- **Netgear GS305P-100NAS *(4+1 Port)* **
+  - [Amazon](https://www.amazon.com/gp/product/B01MRO4M73/)
+  - PoE for CCTV Cameras
+  - [From My YouTube Channel]
+- **TP-Link TL-SG1024S *(24 Port)* **
+  - [Amazon](https://www.amazon.com/gp/product/B0779R9LJ3/)
+  - vLAN Management AFTER pfSense
+  - [From My YouTube Channel]
+## **Cabling**
+- **CAT6 *Indoor* **
+  - [Amazon]
+- **CAT6 *Outdoor* **
+  - [Amazon]
+___
 ___
 ___
 # Z-WAVE
@@ -13,6 +46,7 @@ ___
 - **In Wall Receptacle (ZW1002)**
   - [Amazon](https://www.amazon.com/Enbrighten-55256-Receptacle-Assistant-Tamper-Resistant/dp/B07361JZ2H)
   - [Manual](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Resources/Manuals/GE_ZW1002.pdf)
+  - [Related Video from my YouTube Channel](https://youtu.be/BoiBjb1yXNE)
 - **Fan Switch with Speed Contol (ZW4002)**
   - [Amazon](https://www.amazon.com/GE-Enbrighten-Required-SmartThings-14287/dp/B06XTKQTTV/)
   - [Manual]
