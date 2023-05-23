@@ -1,7 +1,7 @@
 # My Smart Home Equipment, Documentation, Where to Buy
 - **[My YouTube Channel](https://www.youtube.com/@morgansmodifications)**
 ___
-## **Receptacle/Switch Related**
+# **RECEPTACLE & SWITCH RELATED**
 - **Receptacle Safety Cover**
   - [Amazon](https://www.amazon.com/gp/product/B007IUOG5A/)
 
