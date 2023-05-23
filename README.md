@@ -9,6 +9,9 @@ ___
 - [YouTube](https://youtu.be/ZwLyuxBo-Ak): Getting Latitude & Longitude for zones.yaml
 - [YouTube](https://youtu.be/bTwr26n60qs): Home Assistant UPS Monitoring - NUT Addon
 ___
+## Other Smart Home Related
+- [YouTube](https://www.youtube.com/watch?v=BoiBjb1yXNE): Replacing a standard outlet with a zwave receptacle.
+___
 ## pfSense
 - [YouTube](https://www.youtube.com/watch?v=Ao0rXqbJZ-E): vLAN Setup - Netgear Access Point & Netgear Switch
 - [YouTube](https://youtu.be/zO6BN5mbGQ4): NordVPN Setup (Version 1) Bad quality. First Video I ever produced
