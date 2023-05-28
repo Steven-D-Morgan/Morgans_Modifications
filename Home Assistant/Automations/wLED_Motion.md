@@ -3,7 +3,7 @@
 ___
 Here is a realistic wLED use case automation in your smart home.
 
-
+```
 alias: Motion Detection
 description: ""
 trigger:
@@ -117,3 +117,4 @@ action:
               milliseconds: 0
     default: []
 mode: single
+```
