@@ -1,5 +1,5 @@
 # Alexa Custom Component
-- [YouTube]()
+- [YouTube](https://youtu.be/lZpcyu9rnXo)
 - [Alexa Media Player](https://github.com/custom-components/alexa_media_player)
 ___
 **TEMPLATE SENSORS**
