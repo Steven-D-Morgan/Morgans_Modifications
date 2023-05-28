@@ -5,5 +5,5 @@ ___
  - 2.) **Create a New VM & Upload iso downloaded above**
  - 3.) **Do your standard updating**
 ```
-sudo su
+CODE HERE
 ```
