@@ -1,5 +1,5 @@
 # wLED Motion Based Automations
-[YouTube]()
+[YouTube](https://youtu.be/vArEWx7FFKU)
 ___
 Here is a realistic wLED use case automation in your smart home.
 
