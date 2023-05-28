@@ -1,6 +1,6 @@
 # Alexa Custom Component
-[YouTube]()
-[Alexa Media Player](https://github.com/custom-components/alexa_media_player)
+- [YouTube]()
+- [Alexa Media Player](https://github.com/custom-components/alexa_media_player)
 ___
 **AUTOMATION ACTIONS**
 
