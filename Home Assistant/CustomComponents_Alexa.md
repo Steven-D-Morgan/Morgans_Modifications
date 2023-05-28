@@ -3,7 +3,7 @@
 ___
 [Alexa Media Player](https://github.com/custom-components/alexa_media_player)
 
-
+**AUTOMATION ACTIONS**
 ```
 service: media_player.volume_set
 data:
