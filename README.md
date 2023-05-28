@@ -8,6 +8,7 @@ ___
 - [YouTube](https://youtu.be/hCSlaGx6cOY): Aeotec GE Z-Wave - Motion Light - Simplest, Most Effective Solution
 - [YouTube](https://youtu.be/ZwLyuxBo-Ak): Getting Latitude & Longitude for zones.yaml
 - [YouTube](https://youtu.be/bTwr26n60qs): Home Assistant UPS Monitoring - NUT Addon
+- [YouTube](https://youtu.be/lZpcyu9rnXo): Alexa TTS Annoucements with Home Assistant
 - wLED Series
     - [PART 1](https://youtu.be/p0aCSAK2XgU): How to Solder & Making a wLED PCB
     - [PART 2](https://youtu.be/viOEqBg-NKY): Initial Configuration & Adding to Home Assistant
