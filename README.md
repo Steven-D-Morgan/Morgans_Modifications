@@ -13,6 +13,7 @@ ___
     - [PART 1](https://youtu.be/p0aCSAK2XgU): How to Solder & Making a wLED PCB
     - [PART 2](https://youtu.be/viOEqBg-NKY): Initial Configuration & Adding to Home Assistant
     - [PART 3](https://youtu.be/vArEWx7FFKU): Practical wLED Automations
+    - [PART 4](https://youtu.be/SldYRGn0RMQ): Installing Behind Your TV
 ___
 ## Other Smart Home Related
 - [YouTube](https://www.youtube.com/watch?v=BoiBjb1yXNE): Replacing a standard outlet with a zwave receptacle.
