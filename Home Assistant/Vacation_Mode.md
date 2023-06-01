@@ -7,5 +7,5 @@ ___
 - In the above video, we will be looking into creating a **Vacation Mode** in Home Assistant.
 - We will be setting HVAC to an appropriate away temperature
 - Disbale all normal automations while enabling specific "Vaction Mode" automations
- - Active notifications for indoor motion alerts from PIR sensors usually only used for lighting control.
+  - Active notifications for indoor motion alerts from PIR sensors usually only used for lighting control.
 - Randomize specific indoor/outdoor lights in the evening & at night time to make your home appear as if it is occupied. 
