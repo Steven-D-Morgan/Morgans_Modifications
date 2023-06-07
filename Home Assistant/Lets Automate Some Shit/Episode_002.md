@@ -11,7 +11,7 @@ description: ""
 trigger:
   - platform: state
     entity_id:
-      - binary_sensor.abels_bedroom_motion
+      - binary_sensor.front_doorbell
     from: "off"
     to: "on"
     id: Doorbell
