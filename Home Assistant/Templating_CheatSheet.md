@@ -4,10 +4,14 @@
 ```
 {{ now().strftime('%Y_%m_%d_%H%M') }}
 ```
-___
-### 
 ```
-CODE HERE
+service: camera.snapshot
+data:
+  filename: >-
+    /config/www/Snapshots/GarageExterior/GarageExterior_{{ now().strftime('%Y_%m_%d_%H%M') }}.jpg
+target:
+  entity_id: camera.garage_exterior_main
+
 ```
 ___
 ### 
