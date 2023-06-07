@@ -12,4 +12,4 @@ CODE HERE
 ___
 *Additional Information & Resources*
 - [Amazon Sound Libary](https://developer.amazon.com/en-US/docs/alexa/custom-skills/ask-soundlibrary.html)
-- [Alexa Media Player Component](https://developer.amazon.com/en-US/docs/alexa/custom-skills/ask-soundlibrary.html](https://github.com/custom-components/alexa_media_player)
+- [Alexa Media Player Component](https://github.com/custom-components/alexa_media_player)
