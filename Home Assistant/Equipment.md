@@ -104,5 +104,3 @@ ___
 - **EC70 Camera**
   - 1080p **PTZ** Indoor Camera
   - [Amazon](https://a.co/d/i3LNvE6)
-
-  - EC70
