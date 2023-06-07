@@ -1,5 +1,5 @@
 # Lets Automate Some Shit - Episode 002
-- [YouTube]()
+- [YouTube](https://youtu.be/iAMhhPdIRdQ)
 
 ___
 - In this episode, we go over Alexa Media Player notifications, sounds, etc.
