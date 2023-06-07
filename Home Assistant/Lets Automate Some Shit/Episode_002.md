@@ -2,7 +2,7 @@
 - [YouTube](https://youtu.be/iAMhhPdIRdQ)
 
 ___
-- In this episode, we go over Alexa Media Player notifications, sounds, etc.
+- In this episode, we go over Alexa Media Player notifications, sounds, etc from Home Assistant! This includes TTS and sounds such as a doorbell.
 - In a previous video I go over how to install this 3rd party component, [here](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Home%20Assistant/CustomComponents_Alexa.md) is that info.
 - The YAML below is related to the associated video linked at the top. The goal is to give everyone a basic understanding on what is possible to get you started, many of these could be added onto indefinetely. 
 ```
