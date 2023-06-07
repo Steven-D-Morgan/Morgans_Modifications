@@ -7,7 +7,6 @@ ___
   - [From My YouTube Channel](https://youtu.be/BoiBjb1yXNE)
 ___
 ___
-___
 # Networking Equipment
 ## **Router**
 - **pfSense**
@@ -40,7 +39,6 @@ ___
   - [Amazon]
 ___
 ___
-___
 # Z-WAVE
 ## **GE**
 - **In Wall Receptacle (ZW1002)**
@@ -65,7 +63,7 @@ ___
   - [Amazon](https://www.amazon.com/Aeotec-Z-Stick-Z-Wave-create-gateway/dp/B00X0AWA6E/)
   - [Manual]
 - **Aeotek Multisensor 6**
-  - [Amazon](https://www.amazon.com/Enbrighten-55256-Receptacle-Assistant-Tamper-Resistant/dp/B07361JZ2H](https://www.amazon.com/Aeotec-Multisensor-temperature-humidity-vibration/dp/B0151Z8ZQY)
+  - [Amazon](https://www.amazon.com/Aeotec-Multisensor-temperature-humidity-vibration/dp/B0151Z8ZQY)
   - [Manual]
 - **Aeotek Multisensor 7**
   - [Amazon](https://www.amazon.com/MultiSensor-Temperature-SmartStart-Compatible-Smartthings/dp/B08XHZP7NV)
@@ -88,3 +86,23 @@ ___
 - **In Wall Add-On Switch *(ZW3K-NEW)***
   - [Amazon](https://www.amazon.com/Enerwave-ZW3k-NEW-Automation-standalone-Interchangeable/dp/B01G7MFO2I/)
   - [Manual]
+___
+## **TP-Link Kasa**
+- **HS110 Plug**
+  - Energy Monitoring, up to **15A** *(if I remember correctly)*
+  - Unfortunately, these devices are hard to find for sale now. Which sucks as they were definetely my favorite energy devices.
+- **HS103 Plug**
+- - Standard Plug *(Non Energy Monitoring)*
+  - [Amazon (1 Pack)](https://a.co/d/gvfJrmK)
+  - [Amazon (4 Pack)](https://a.co/d/4n06HZW)
+- **HS200 Switch**
+  - [Amazon (1 Pack)](https://a.co/d/8vHEOKt)
+  - [Amazon (3 Pack)](https://a.co/d/hy9aZ6m)
+- **EC60 Camera**
+  - 1080p Indoor Camera
+  - [Amazon](https://a.co/d/7kOt8SP)
+- **EC70 Camera**
+  - 1080p **PTZ** Indoor Camera
+  - [Amazon](https://a.co/d/i3LNvE6)
+
+  - EC70
