@@ -2,8 +2,8 @@
 - [YouTube]()
 
 ___
-- In this video/tutorial I begin a series in which I hope to grow my subscription base/following. I will do one automation per episode; with some being simple like motion lighting to complex is my breaker tripped or is utility power out? 
-- The YAML below is the one I go over in the linked video. Seems short and sweet? That is the goal, to open your imagination and get you thinking on how you could do something similar. We could add on to these automations forever. 
+- In this episode, we go over Alexa Media Player notifications. In a previous video I go over how to install this 3rd party component, [here](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Home%20Assistant/CustomComponents_Alexa.md) is that info.
+- The YAML below is related to the associated video linked at the top. The goal is to give everyone a basic understanding on what is possible to get you started, many of these could be added onto indefinetely. 
 ```
 CODE HERE
 ```
