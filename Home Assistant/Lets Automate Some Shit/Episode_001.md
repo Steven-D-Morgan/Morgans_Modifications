@@ -3,7 +3,7 @@
 
 ___
 - In this video/tutorial I begin a series in which I hope to grow my subscription base/following. I will do one automation per episode; with some being simple like motion lighting to complex ones such as, "Is my breaker tripped or is utility power out?".
-- Well... To start with a semi bang? We are doing the utility vs. breaker automation in this first video.
+- In this episode, "Is my breaker tripped or is utility power out?". We go over using both UPS sensors & Kasa Energy Monitoring devices (HS110) to determine did a breaker trip or is the power actually out.
 - The YAML below is the one I go over in the linked video. Seems short and sweet? That is the goal, to open your imagination and get you thinking on how you could do something similar. We could add on to this thing forever. 
 ```
 alias: (SYSTEM) Power Loss
