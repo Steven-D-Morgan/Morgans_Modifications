@@ -1,5 +1,5 @@
 # Lets Automate Some Shit - Episode 001
-- [YouTube]()
+- [YouTube](https://youtu.be/DhMPdDYdenQ)
 
 ___
 - In this video/tutorial I begin a series in which I hope to grow my subscription base/following. I will do one automation per episode; with some being simple like motion lighting to complex is my breaker tripped or is utility power out? 
