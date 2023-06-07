@@ -1,4 +1,4 @@
-{{ now().strftime('%Y_%m_%d_%H%M') }}
+# TEMPLATING
 ___
 **2023_06_07_1819**
 ```
