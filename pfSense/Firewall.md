@@ -1,4 +1,5 @@
 # Ports_Internal
+*Internal LAN to LAN Ports*
 - 53 : DNS 
 - 5353:5354 : MDNS 1
 - 23 : NTP 
@@ -24,7 +25,7 @@
 
 ---
 # Ports_External
-
+*External LAN to WAN Ports*
 - 21 : FTP
 - 22 : SSH
 - 80 : HTTP
