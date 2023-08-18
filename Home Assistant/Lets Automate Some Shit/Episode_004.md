@@ -1,5 +1,5 @@
 # Lets Automate Some Shit - Episode 004
-- [YouTube]()
+- [YouTube](https://www.youtube.com/watch?v=Eern8fhgBBE)
 
 ___
 - In this episode, we go over using the built in App device tracker to perform actions based on when you arrive or leave home as well as if it is day or night.
