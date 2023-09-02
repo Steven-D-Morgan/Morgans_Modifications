@@ -15,8 +15,13 @@ target:
 ```
 ___
 ### 
+# Date Templating
 ```
-CODE HERE
+snapshot_{{ now().strftime('%Y_%m_%d_%H_%M_%S_%f') }}
+```
+```
+/config/www/Snapshots/GarageExterior_{{ now ().month }}_{{ now().day
+        }}_{{ now ().year }}_{{ now ().hour }}_{{ now ().minute }}.jpg
 ```
 ___
 ### 
