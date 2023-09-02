@@ -1,5 +1,5 @@
 # TEMPLATING
-- https://www.home-assistant.io/docs/configuration/templating/
+https://www.home-assistant.io/docs/configuration/templating/
 ### states()
 - Returns the current state. For example, tempature sensors will return the reading
 ```
