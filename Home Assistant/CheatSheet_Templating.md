@@ -20,7 +20,7 @@ is_state_attr()
 ```
 ___
 ### 
-# Date Templating
+# Time/Date
 2023_09_01_22_59_15_101746
 ```
 {{ now().strftime('%Y_%m_%d_%H_%M_%S_%f') }}
