@@ -2,16 +2,18 @@
 
 ### **2023_06_07_1819**
 ```
-{{ now().strftime('%Y_%m_%d_%H%M') }}
+states('sensor.temperature')
+```
+# is_state()
+- Determines then displays which (if any) of the two lights match the condition "on".
+```
+{{ ['light.kitchen', 'light.dining_room'] | select('is_state', 'on') | list }}
 ```
 ```
-service: camera.snapshot
-data:
-  filename: >-
-    /config/www/Snapshots/GarageExterior/GarageExterior_{{ now().strftime('%Y_%m_%d_%H%M') }}.jpg
-target:
-  entity_id: camera.garage_exterior_main
-
+state_attr()
+```
+```
+is_state_attr()
 ```
 ___
 ### 
