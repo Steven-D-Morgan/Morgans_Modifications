@@ -16,13 +16,15 @@ target:
 ___
 ### 
 # Date Templating
+2023_09_01_22_59_15_101746
 ```
-snapshot_{{ now().strftime('%Y_%m_%d_%H_%M_%S_%f') }}
+{{ now().strftime('%Y_%m_%d_%H_%M_%S_%f') }}
 ```
+9_1_2023_22_58
 ```
-/config/www/Snapshots/GarageExterior_{{ now ().month }}_{{ now().day
-        }}_{{ now ().year }}_{{ now ().hour }}_{{ now ().minute }}.jpg
+/config/www/Snapshots/GarageExterior_{{ now ().month }}_{{ now().day}}_{{ now ().year }}_{{ now ().hour }}_{{ now ().minute }}.jpg
 ```
+2023_09_01_2258
 ```
 /config/www/Snapshots/GarageExterior/GarageExterior_{{ now().strftime('%Y_%m_%d_%H%M') }}.jpg
 ```
