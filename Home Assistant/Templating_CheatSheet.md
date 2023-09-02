@@ -22,11 +22,11 @@ ___
 ```
 9_1_2023_22_58
 ```
-/config/www/Snapshots/GarageExterior_{{ now ().month }}_{{ now().day}}_{{ now ().year }}_{{ now ().hour }}_{{ now ().minute }}.jpg
+{{ now ().month }}_{{ now().day}}_{{ now ().year }}_{{ now ().hour }}_{{ now ().minute }}
 ```
 2023_09_01_2258
 ```
-/config/www/Snapshots/GarageExterior/GarageExterior_{{ now().strftime('%Y_%m_%d_%H%M') }}.jpg
+{{ now().strftime('%Y_%m_%d_%H%M') }}
 ```
 ___
 ### 
