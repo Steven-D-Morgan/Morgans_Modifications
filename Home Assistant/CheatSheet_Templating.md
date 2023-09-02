@@ -34,9 +34,12 @@ ___
 {{ now().strftime('%Y_%m_%d_%H%M') }}
 ```
 ___
-### 
+###
+# Device Tracking
 ```
-CODE HERE
+{{closest('zone.home', 'group.all_user_trackers')}}
+
+{{ closest(states).name }} is {{ distance(closest(states)) }} kilometers away.
 ```
 ___
 ### 
