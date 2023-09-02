@@ -23,6 +23,9 @@ snapshot_{{ now().strftime('%Y_%m_%d_%H_%M_%S_%f') }}
 /config/www/Snapshots/GarageExterior_{{ now ().month }}_{{ now().day
         }}_{{ now ().year }}_{{ now ().hour }}_{{ now ().minute }}.jpg
 ```
+```
+/config/www/Snapshots/GarageExterior/GarageExterior_{{ now().strftime('%Y_%m_%d_%H%M') }}.jpg
+```
 ___
 ### 
 ```
