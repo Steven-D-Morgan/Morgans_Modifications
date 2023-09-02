@@ -1,17 +1,20 @@
 # TEMPLATING
 
-### **2023_06_07_1819**
+### states()
+- Returns the current state. For example, tempature sensors will return the reading
 ```
 states('sensor.temperature')
 ```
-# is_state()
+### is_state()
 - Determines then displays which (if any) of the two lights match the condition "on".
 ```
 {{ ['light.kitchen', 'light.dining_room'] | select('is_state', 'on') | list }}
 ```
+### state_attr()
 ```
 state_attr()
 ```
+### is_state_attr()
 ```
 is_state_attr()
 ```
