@@ -1,5 +1,5 @@
 # Vacation Mode
-[YouTube]()
+[YouTube](https://youtu.be/xBMB5lnowV0)
 
 ___
 
