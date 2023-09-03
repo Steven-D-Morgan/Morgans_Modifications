@@ -9,6 +9,7 @@ ___
 - [YouTube](https://youtu.be/ZwLyuxBo-Ak): Getting Latitude & Longitude for zones.yaml
 - [YouTube](https://youtu.be/bTwr26n60qs): Home Assistant UPS Monitoring - NUT Addon
 - [YouTube](https://youtu.be/lZpcyu9rnXo): Alexa TTS Annoucements with Home Assistant
+- [YouTube](https://youtu.be/xBMB5lnowV0): Awesome "Vacation Mode" ideas
 - **wLED Series**
     - [PART 1](https://youtu.be/p0aCSAK2XgU): How to Solder & Making a wLED PCB
     - [PART 2](https://youtu.be/viOEqBg-NKY): Initial Configuration & Adding to Home Assistant
@@ -18,12 +19,21 @@ ___
     - [Episode 001](https://www.youtube.com/watch?v=DhMPdDYdenQ): Notify on Power Failure vs. Breaker Trip
     - [Episode 002](https://youtu.be/iAMhhPdIRdQ): Alexa Media Player TTS, Sounds, etc.
     - [Episode 003](): Taking A Camera Snapshot & Usecases
-    - [Episode 004](): 
+    - [Episode 004](https://youtu.be/Eern8fhgBBE): Camera Snapshots & Use Cases
     - [Episode 005](): 
-    - [Episode 006](): 
+    - [Episode 006]():
 ___
 ## Other Smart Home Related
 - [YouTube](https://www.youtube.com/watch?v=BoiBjb1yXNE): Replacing a standard outlet with a zwave receptacle.
+___
+## 'Hook It Up'##
+This series is to assist in guiding newcomers to the vast field of circuitry. More complex content in this area is to come.
+- [Flame Detection Module](https://youtu.be/XGepcEp8_DE)
+- [DHT 11/22](https://youtu.be/e69YjRSEMaA)
+- [PIR Module](https://youtu.be/sSLMWaQGc-I)
+- [DS18b20](https://youtu.be/7f_nWqOWWUM)
+- [Liquid Float Sensor/Switch](https://youtu.be/Rn_751vr8yQ)
+- [5v PCB LED Diode](https://youtu.be/Lcz_Uxfc-H4)
 ___
 ## pfSense
 - [YouTube](https://www.youtube.com/watch?v=Ao0rXqbJZ-E): vLAN Setup - Netgear Access Point & Netgear Switch
