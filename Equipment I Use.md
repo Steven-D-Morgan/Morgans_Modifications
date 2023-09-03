@@ -112,7 +112,7 @@ ___
   - [User Manual](https://m.media-amazon.com/images/I/B1fTbqgfB7S.pdf)
   - [Spec Sheet](https://m.media-amazon.com/images/I/618lTfOXC9L.pdf)
   - [Quick Start Guide](https://m.media-amazon.com/images/I/B1ulPYTU1LL.pdf)
-- ** **RLC-510a *PoE***
+- ** RLC-510a *(PoE)* **
   - 5MP
   - [Amazon](https://a.co/d/88GEvti)
   - [User Manual](https://m.media-amazon.com/images/I/B1fTbqgfB7S.pdf)
