@@ -92,7 +92,7 @@ ___
   - Energy Monitoring, up to **15A** *(if I remember correctly)*
   - Unfortunately, these devices are hard to find for sale now. Which sucks as they were definetely my favorite energy devices.
 - **HS103 Plug**
-- - Standard Plug *(Non Energy Monitoring)*
+  - Standard Plug *(Non Energy Monitoring)*
   - [Amazon (1 Pack)](https://a.co/d/gvfJrmK)
   - [Amazon (4 Pack)](https://a.co/d/4n06HZW)
 - **HS200 Switch**
@@ -104,3 +104,11 @@ ___
 - **EC70 Camera**
   - 1080p **PTZ** Indoor Camera
   - [Amazon](https://a.co/d/i3LNvE6)
+___
+## **Reolink**
+- **Reolink DUO 2 *(POE)***
+  - 180 Degree Field of View, ONVIF, AI Pet, AI People, AI Vehicle Detection & More
+  - [Amazon](https://a.co/d/23YJqvD)
+  - [User Manual](https://m.media-amazon.com/images/I/B1fTbqgfB7S.pdf)
+  - [Spec Sheet](https://m.media-amazon.com/images/I/618lTfOXC9L.pdf)
+  - [Quick Start Guide](https://m.media-amazon.com/images/I/B1ulPYTU1LL.pdf)
