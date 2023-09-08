@@ -18,7 +18,7 @@ ___
 - **Lets Automate Some Shit**
     - [Episode 001](https://www.youtube.com/watch?v=DhMPdDYdenQ): Notify on Power Failure vs. Breaker Trip
     - [Episode 002](https://youtu.be/iAMhhPdIRdQ): Alexa Media Player TTS, Sounds, etc.
-    - [Episode 003](): Taking A Camera Snapshot & Usecases
+    - [Episode 003](): Consolidating Automations with Template Actions
     - [Episode 004](https://youtu.be/Eern8fhgBBE): Camera Snapshots & Use Cases
     - [Episode 005](): 
     - [Episode 006]():
