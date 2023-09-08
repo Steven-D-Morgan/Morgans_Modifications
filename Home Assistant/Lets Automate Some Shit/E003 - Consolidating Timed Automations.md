@@ -1,5 +1,5 @@
 # Lets Automate Some Shit - Episode 003
-- [YouTube]()
+- [YouTube](https://youtu.be/QeSuh-3aVt0)
 
 ___
 - # In this episode, we go over consolidating automations along with why you should and how to do so #
