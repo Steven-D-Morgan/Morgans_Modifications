@@ -2,7 +2,7 @@
 - [YouTube]()
 
 ___
-- # In this episode, we go over consolidating automations along with why you should and how to do so#
+- # In this episode, we go over consolidating automations along with why you should and how to do so #
 - The YAML below is related to the associated video linked at the top. The goal is to give everyone a basic understanding on what is possible to get you started, many of these could be added onto indefinetely.
 
 
