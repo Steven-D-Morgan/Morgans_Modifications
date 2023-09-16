@@ -1,5 +1,5 @@
 # Lets Automate Some Shit - Episode 006
-- [YouTube]()
+- [YouTube](https://youtu.be/24Zum57XPn0)
 - [Home Assistant: LG webOS](https://www.home-assistant.io/integrations/webostv/)
 - [Home Assistant: Templating](https://www.home-assistant.io/docs/automation/templating/)
 ___
