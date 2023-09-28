@@ -5,11 +5,10 @@
 - [GE ZW4008 Switch](https://a.co/d/5Yiq4n8)
 ___
  
-- In this episode, we discuss how to create a useful indoor motion light that doesn't get on your nerves lol...
+In this episode, we discuss 3 useful lighting automations.
 
-*The below YAML is from the linked video.*
-
-
+**Indoor Motion Lighting**
+---
 ```
 alias: Kitchen Auto Lighting
 description: ""
@@ -131,9 +130,16 @@ action:
                     target:
                       entity_id: light.kitchen_sink
 mode: single
+```
+___
+**Outdoor Dumb Motion Lights**
+---
 
 ```
-
+CODE SNIPPET HERE
+```
+___
+**Media Player Pause/Play Lighting**
 ---
 
 ```
