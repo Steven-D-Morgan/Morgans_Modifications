@@ -27,9 +27,13 @@ ___
 ___
 **Multiple Entity Row**
 ---
-This is a crucial component when it comes to customizing your Home Assistant Interface.
 - [GitHub](https://github.com/benct/lovelace-multiple-entity-row)
 - [Releases](https://github.com/benct/lovelace-multiple-entity-row/releases)
 
+___
+**Paper Buttons Row**
+---
+- [GitHub](https://github.com/jcwillox/lovelace-paper-buttons-row)
+- [Releases](https://github.com/jcwillox/lovelace-paper-buttons-row/releases)
 
 ___
