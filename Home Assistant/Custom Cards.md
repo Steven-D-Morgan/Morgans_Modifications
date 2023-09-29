@@ -25,3 +25,11 @@ ___
 ![alt text](http://url/to/img.png)
 
 ___
+**Multiple Entity Row**
+---
+This is a crucial component when it comes to customizing your Home Assistant Interface.
+- [GitHub](https://github.com/benct/lovelace-multiple-entity-row)
+- [Releases](https://github.com/benct/lovelace-multiple-entity-row/releases)
+
+
+___
