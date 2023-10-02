@@ -1,5 +1,5 @@
 # Lets Automate Some Shit - Episode 007
-- [YouTube]()
+- [YouTube](https://youtu.be/x46OsoH3TlY)
 - [Aeotek Multisensor 7](https://a.co/d/6V9IPDd)
 - [Aeotek Recessed Mount](https://a.co/d/6nRN7Rr)
 - [GE ZW4008 Switch](https://a.co/d/5Yiq4n8)
