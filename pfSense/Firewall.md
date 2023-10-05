@@ -1,6 +1,6 @@
 # pfSense - Locking Down your Firewall
 
-**YouTube** [Locking Down your Network: Part 1](https://youtu.be/jN1gvjZffTY)
+**YouTube** [Locking Down your Network: Part 1](https://youtu.be/fp8edzQUDU4)
 ___
 
 ## Ports_Internal
