@@ -36,7 +36,7 @@ This series is to assist in guiding newcomers to the vast field of circuitry. Mo
 - [5v PCB LED Diode](https://youtu.be/Lcz_Uxfc-H4)
 ___
 ## pfSense
-- [YouTube](https://youtu.be/jN1gvjZffTY): Lock Down Your Network - Part 1
+- [YouTube](https://youtu.be/fp8edzQUDU4): Lock Down Your Network - Part 1
 - [YouTube](https://www.youtube.com/watch?v=Ao0rXqbJZ-E): vLAN Setup - Netgear Access Point & Netgear Switch
 - [YouTube](https://youtu.be/zO6BN5mbGQ4): NordVPN Setup (Version 1) Bad quality. First Video I ever produced
 - [YouTube](https://youtu.be/AouyT76yMmU): NordVPN Setup with Split Tunneling through vLAN's, etc (Version 2) 
