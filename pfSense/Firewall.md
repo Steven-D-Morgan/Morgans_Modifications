@@ -38,6 +38,7 @@
 - 119 : NNTP
 - 143 : IMAP
 - 1194 : VPN
+- 1900 : NordVPN
 - 6667 : IRC
 - 6697 : IRCS
 - 8443 : CalDAV
