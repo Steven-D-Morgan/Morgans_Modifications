@@ -1,1 +1,2 @@
-https://github.com/marcelstoer/nodemcu-pyflasher/releases
+- https://github.com/marcelstoer/nodemcu-pyflasher/releases
+- https://github.com/tasmota/tasmotizer/releases
