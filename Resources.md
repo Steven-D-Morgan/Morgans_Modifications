@@ -1,2 +1,3 @@
 - https://github.com/marcelstoer/nodemcu-pyflasher/releases
 - https://github.com/tasmota/tasmotizer/releases
+- https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers?tab=downloads
