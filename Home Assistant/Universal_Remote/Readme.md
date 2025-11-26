@@ -1,6 +1,7 @@
 # Build Your Own Digital Universal Remote
 - This is the template code I use where the positioning work has already been completed for you.
 - We will be using the built in [Picture Elements Card](https://www.home-assistant.io/dashboards/picture-elements/)
+- [Removal.ai](https://removal.ai/) is a great online tool to remove backgrounds of images/logos.
 ```
 type: picture-elements
 elements:
