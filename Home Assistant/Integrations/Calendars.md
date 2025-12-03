@@ -1,6 +1,8 @@
 # CALENDAR
 - Home Assistant [Calendar](https://www.home-assistant.io/integrations/calendar/) Documentation
 - Home Assistant [CalDAV](https://www.home-assistant.io/integrations/caldav/) Documentation
+- Apple Documentation for [One Time Passwords](https://support.apple.com/en-us/102654).
+  - This is for the CalDAV integration.
 ### Using Specific Calendars
 - Filter to only bring in certain calendars to Home Assistant.
 ```
