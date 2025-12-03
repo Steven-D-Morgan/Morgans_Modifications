@@ -18,15 +18,16 @@
   - Home Assistant then creates a sensor for if they are active or not.
 - In my sample code below, I have a custom calendar that searches for the keywords "Abel & Cooper with Tiffany".
   - Now I have sensors for when they are and are not with me. Which is useful for enabling/disabling certain automations.
+  - This is incredibly useful in my case since we have a rotating 2-2-3 schedule. Meaning the days arent identical every week.
 ```
   - platform: caldav
     username: !secret apple_username
     password: !secret apple_app_password
     url: https://caldav.icloud.com
     custom_calendars:
-      - name: "Birthdays"
-        calendar: "Birthdays"
-        search: "Birthday"
+      - name: "Abel & Cooper with Steven"
+        calendar: "Custody Rotation"
+        search: "Abel & Cooper with Steven"
       - name: "Abel & Cooper with Tiffany"
         calendar: "Custody Rotation"
         search: "Abel & Cooper with Tiffany"
