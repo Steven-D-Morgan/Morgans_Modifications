@@ -10,6 +10,9 @@
 ### [Alexa Media Player](https://github.com/alandtse/alexa_media_player)
 - This is the HOLY GRAIL of custom components.
 - Gives you damn near total usage of your Echo devices via Alexa's API.
+### [Emporia Vue](https://github.com/magico13/ha-emporia-vue)
+- Use your Emporia Sensors OEM API for energy monitoring.
+
 ---
 # CUSTOM CARDS
 ### [Floor3d Card](https://github.com/adizanni/floor3d-card)
