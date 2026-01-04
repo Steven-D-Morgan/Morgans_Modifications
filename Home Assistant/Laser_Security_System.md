@@ -14,3 +14,4 @@ SetOption114 1
 ```
 SetOption19 0; SetOption114 1; SetOption8 1; SetOption26 1; SetOption36 0; SetOption53 1; Timezone -5; NtpServer1 192.168.10.254; NtpServer2 192.168.20.254; NtpServer3 192.168.10.254
 ```
+![Alt text for the image](https://github.com/Steven-D-Morgan/Morgans_Modifications/blob/main/Resources/Diagrams/LDR%20Wiring%20(10k%20Resistor).png)
