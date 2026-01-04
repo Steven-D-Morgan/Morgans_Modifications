@@ -1,5 +1,6 @@
 # Laser Based Home Security System
 - [Tasmota](https://tasmota.github.io/docs/Download/)
+- [Windows Tasmotizer](https://github.com/tasmota/tasmotizer/releases)
 ### Switch as Binary Sensor in Home Assistant
 ```
 SetOption114 1
