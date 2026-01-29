@@ -1,7 +1,10 @@
 # Home Assistant Resources #
 ---
-## 3rd Party Integrations
+## 3rd Party Integrations & Add-Ons
 - [HACS](https://github.com/hacs/default)
+- [Alexa Media Player](https://github.com/alandtse/alexa_media_player/)
+  - Easily my favorite 3rd party add-on. You can do just about ANYTHING within your imagination.
+  - [Here](https://github.com/alandtse/alexa_media_player/wiki) is the all the documentaion along with examples.
 ---
 ## Custom Cards
 - HA-Floorplan
