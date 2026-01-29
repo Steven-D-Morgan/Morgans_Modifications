@@ -1,6 +1,7 @@
 # Home Assistant Resources #
 ---
 ## 3rd Party Integrations
+- [HACS](https://github.com/hacs/default)
 ---
 ## Custom Cards
 - HA-Floorplan
