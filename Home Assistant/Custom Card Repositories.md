@@ -37,3 +37,9 @@ ___
 - [Releases](https://github.com/jcwillox/lovelace-paper-buttons-row/releases)
 
 ___
+**Expander Card**
+---
+- [GitHub](https://github.com/MelleD/lovelace-expander-card)
+- [Releases](https://github.com/MelleD/lovelace-expander-card/releases/))
+
+___
