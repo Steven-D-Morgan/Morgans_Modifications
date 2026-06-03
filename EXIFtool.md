@@ -1,3 +1,16 @@
+### Write Date to file based on File Name
+ - [YouTube: Setting Date by Filename](https://youtu.be/0O9oQFjb9E0)
+ - [YouTube: Date/Time & Location Metadata](https://youtu.be/z1QJK8ZJa5U)
+```
+exiftool "-datetimeoriginal<filename" ./
+```
+### Renames Date In Files (without altering words after date)
+- The [-.] matches either a - or a . as the separator, so it catches all three variants in one shot:
+(04-13-2020) → (2020-04-13)
+(11.18.2020) → (2020-11-18)
+```
+-filename<${filename;s/\((\d{2})[-.](\d{2})[-.](\d{4})\)/($3-$1-$2)/}
+```
 ### LOCATION ###
  - Below are the coordinates of the White House in Washington, DC
     - Latitude: 38.897957
@@ -59,9 +72,5 @@
 | "-DateTime<QuickTime:CreateDate" | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 | "-DateCreated<QuickTime:CreateDate" | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> | <ul><li>[x] </li></ul> |
 ___
-## Write Date to file based on File Name
-[YouTube Video]()
-```
-exiftool "-datetimeoriginal<filename" ./
-```
+
 
